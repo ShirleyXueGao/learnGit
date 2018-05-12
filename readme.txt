@@ -1,2 +1,2 @@
 relearn git
-at May.11th in lab 615
+at May.12th in lab 615
